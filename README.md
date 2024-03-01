@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Spring and Spring Boot.<br>🔭 I’m currently working on AllMoviesOfTheActorsAPI</p>
+<p align="left">🌱 I’m currently learning Spring and Spring Boot.<br>🔭 I’m currently working on HoneyDictionaryWebsite project.</p>
 
 ###
 
